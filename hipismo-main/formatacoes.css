@@ -1,0 +1,146 @@
+
+
+#geral{
+    padding-top: 20px;
+    margin: 8% 40%;
+    text-align: center;
+    color: white;
+    background: linear-gradient(to right, #09060e, #0e013d);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+
+
+
+#container{
+    padding-top: 10px;
+    padding-bottom: 3px;
+    width: auto;
+    height: auto;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 0;
+  
+
+}
+
+.caixaInformacoes{
+    text-align: center;
+    width: 120px;
+    height: 120px;
+    margin-top: -60px;
+    margin-bottom: 30px;
+
+}
+
+input {
+height: 40px;
+width: 250px;
+font-size: 15px;
+margin-top: 7px;
+margin-bottom: 30px;
+background-color: #fff;
+padding-left: 10px;
+border-radius: 5px;
+text-align: left;
+}
+
+.submit-button {
+    background-color: #002776;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline;
+    text-align: center;
+}
+
+.tab-container {
+    display: block;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 15px;
+    max-width: 450px;
+    padding: 20px;
+}
+
+.tab-button {
+    background-color: #002776;
+    
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin: 5px 5px;
+    display: inline;
+    align-items:center;
+    
+    
+    
+
+}
+
+.tab-button:hover {
+    background-color: #000000;
+    text-decoration:none;
+    color: white;
+}
+
+.content {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.image-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* pagina do cronograma */
+
+#corpoGeral{
+    margin: 5% 30%;
+    padding: 0 25px;
+    margin-bottom: 30px;
+    background: linear-gradient(#4d1313, #023d3d  , #878888);
+    font-family: Arial, sans-serif;
+    display: inline;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+#titulo{
+    font-size: 50px;
+    color: white;
+    text-align: top center;
+    margin: 2px;
+    padding-bottom: 5px;
+    
+}
+
+.conteudo{ 
+    color: white;
+    width: 99% ;
+    height: 100% ;
+    background-position: fixed;
+    text-align: center;
+    margin-bottom: 35px;
+
+}
+
